@@ -1,0 +1,5 @@
+cp -f scene/scene.xml ../MulaKong/app/src/main/assets/media/
+cp -f scene/meshs/*.* ../MulaKong/app/src/main/assets/media/meshs/
+cp -f scene/textures/*.* ../MulaKong/app/src/main/assets/media/textures/
+cp -f mula_texture_1K.png ../MulaKong/app/src/main/assets/media/textures/mulakong_texture.png
+

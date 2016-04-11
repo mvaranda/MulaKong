@@ -1,0 +1,1 @@
+../../jpct-ae/Bones/scripts/jmeOgre2Bones.sh -scale 0.14 -rotation z180 -out ../../MulaKong/app/src/main/assets/media/meshs/mulakong_bones -in MulaKong.mesh.xml
